@@ -1,7 +1,3 @@
-# albertphx.github.io
-
-# note
-
 ```
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -23,10 +19,9 @@ remote: Permission to AlbertPhx/albertphx.github.io.git denied to AlbertPhx.
 fatal: unable to access 'https://github.com/AlbertPhx/albertphx.github.io.git/': The requested URL returned error: 403
 ```
 
-# note
+When you have this issues, you might want to enter your github username and password, but actually it requires you to enter your "Personal access tokens", you can go to the settings page and find the "Personal access tokens" button then click it.
+![alt text](image.png)
 
-# note
+After you see this page you can generate the your own personal access tokens and copy and paste to your terminal. Then you can conect your github from your local.
 
-# note
-
-# note
+![alt text](image2.png)
