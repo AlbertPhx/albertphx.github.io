@@ -7,6 +7,10 @@
 
 ![alt text](table.png)
 
+- Propositional connectives
+  - 2 -place(binary): ∧ (conjunction),v(disjunction), → (implication)
+  - 1 -place(unary) : ¬ (negation)
+  - 0 -place : bottom and T (top)
 - Satisfiability
   - A propositional formula F is satisfiable if some interpretation(各種可能性) satisfies F
   - a least one interpretation satifty!
